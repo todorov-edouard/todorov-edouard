@@ -1,5 +1,5 @@
 
-# 👋 Bonjour, je suis Édouard Todorov
+# 👋 Bonjour, je suis Edouard Todorov
 
 ### Développeur Web | PHP • Symfony • JavaScript • Node.js • React • SQL
 
@@ -26,4 +26,4 @@ Continuer à développer mes compétences, concevoir des projets web et partager
 
 ---
 
-*Édouard Todorov | Développeur Web | PHP | Symfony | JavaScript | Node.js | React | SQL*
+*Edouard Todorov | Développeur Web | PHP | Symfony | JavaScript | Node.js | React | SQL*
