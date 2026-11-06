@@ -16,9 +16,9 @@ Je travaille notamment avec PHP, Symfony, JavaScript, Node.js, React et SQL.
 
 ## 🌐 Retrouvez-moi
 
-- 💼 **Portfolio :** [portfolio.tekedo.fr](https://portfolio.tekedo.fr)
-- 🔗 **LinkedIn :** [Edouard Todorov](https://linkedin.com/in/edouard-todorov)
-- 💻 **GitHub :** [Edouard Todorov](https://github.com/todorov-edouard)
+- 💼 **Portfolio :** [https://portfolio.tekedo.fr](https://portfolio.tekedo.fr)
+- 🔗 **LinkedIn :** [https://www.linkedin.com/in/edouard-todorov](https://linkedin.com/in/edouard-todorov)
+- 💻 **GitHub :** [https://github.com/todorov-edouard](https://github.com/todorov-edouard)
 
 ## Mon objectif
 
